@@ -58,7 +58,7 @@ For more comprehensive comparison study, we investigate two additional strategie
 ### Results
 
 <div align="center">
-<img width="900" height="279" alt="Screenshot 2026-04-03 at 1 44 40 PM" src="https://github.com/user-attachments/assets/602d2b6b-59db-4715-aa8f-2895311f6f9c" />
+<img width="900" alt="Screenshot 2026-04-03 at 1 44 40 PM" src="https://github.com/user-attachments/assets/602d2b6b-59db-4715-aa8f-2895311f6f9c" />
 </div>
 
 
@@ -68,7 +68,7 @@ For more comprehensive comparison study, we investigate two additional strategie
 ### Data Preparation
 
 <div align="center">
-<img width="850" height="489" alt="Screenshot 2026-04-03 at 1 20 57 PM" src="https://github.com/user-attachments/assets/4ece461f-3875-42ac-9571-cdb6eb3882df" />
+<img width="850" alt="Screenshot 2026-04-03 at 1 20 57 PM" src="https://github.com/user-attachments/assets/4ece461f-3875-42ac-9571-cdb6eb3882df" />
 </div>
 
 
