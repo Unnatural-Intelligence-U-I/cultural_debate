@@ -1,3 +1,16 @@
+# Note
+I forked the repo to add the prepared data and requirements file. If you get an error asking about hugging face follow the link, make an account, accept terms for the model, and login through the console with a token.
+
+This should be the commands you need to run for the trial (only difference should be the model):
+```
+python -u single_llm/single_model/aya.py   --input_path data/normad_trial50.jsonl   --output_path output/output.txt   --type without_rot
+python -u single_llm/single_model/seallm.py   --input_path data/normad_trial50.jsonl   --output_path output/output.txt   --type without_rot
+```
+
+Might be able to help if I missed something, just let me know.
+
+\- Ellie
+
 <div align="center">
 
  # Multiple LLM Agents Debate for Equitable <br> Cultural Alignment
